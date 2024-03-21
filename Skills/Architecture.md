@@ -1,63 +1,63 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
+  - Modularity: 🙋 explained
+  - Components: 🖐️ used
   - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - GRASP: 🖐️ used
+  - SOLID: 🖐️ used
+  - GoF patterns: 🖐️ used
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
+  - Multiparadigm code: 🎓 known
+  - Contract programming: 🖐️ used
+  - Platform-agnostic: 👂 heard
+  - Transport-agnostic: 👂 heard
+  - Framework-agnostic: 👂 heard
+  - Code coverage: 🎓 known
+  - Cohesion: 🖐️ used
+  - Coupling: 🖐️ used
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
+  - Isolation between layer: 🎓 known
+  - Domain-specific language (DSL): 🖐️ used
   - System vs applied code
-  - Multilayer approach
-  - Hexagonal architecture
+  - Multilayer approach: 🎓 known
+  - Hexagonal architecture: 🎓 known
   - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
+  - Metaprogramming: 👂 heard
+  - Inversion of control (IoC): 🖐️ used
+  - Dependency injection (DI): 🖐️ used
+  - Clean architecture: 🎓 known
+  - Domain-driven design (DDD): 🎓 known
   - Pub/sub
-  - Message brocker
+  - Message brocker: 👂 heard
   - Agent
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ): 👂 heard
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram
+  - Entity-relationship diagram: 🎓 known
   - IDEF1X
-  - UML
+  - UML: 🎓 known
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems
+  - Distributed systems: 🎓 known
   - High-intensive computing
-  - Load balancing
-  - Gateways
+  - Load balancing: 👂 heard
+  - Gateways: 🎓 known
   - On-premises
   - IaaS
   - PaaS
-  - SaaS
+  - SaaS: 🎓 known
   - FaaS clouds
-  - Serverless
+  - Serverless: 🖐️ used
   - Vendor lock-in
   - Bus factor
 - Solution architecture
@@ -66,19 +66,19 @@
   - Solution capabilities
   - System design
   - Process modelling
-  - Data modelling
+  - Data modelling: 👂 heard
   - Solution components
   - Risk assessment
-  - Non Functional Requirements (NFR)
-  - Clouds
+  - Non Functional Requirements (NFR): 👂 heard
+  - Clouds: 🖐️ used
   - BPMN
-  - Low-code
-  - No-code
-  - Metric
+  - Low-code: 🖐️ used
+  - No-code: 🖐️ used
+  - Metric: 🎓 known
   - Metric abuse
   - ACID
   - CAP theorem
-  - Single source of truth (SSOT)
+  - Single source of truth (SSOT): 🖐️ used
 - Enterprise architecture
   - Understanding business needs
   - Enterprise strategy
@@ -88,7 +88,7 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices: 🖐️ used
   - Process choreography
   - Service orchestration
   - Data warehouse
@@ -96,5 +96,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance
+  - Quality assurance: 🖐️ used
   - Engineering Hygiene
